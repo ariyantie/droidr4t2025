@@ -1,7 +1,7 @@
 /* 
 *   DroiDrop
 *   An Android Monitoring Tools
-*   By t.me/efxtv
+*   By Tools Pinjol
 */
 
 

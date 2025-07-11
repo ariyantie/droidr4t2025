@@ -1,0 +1,1942 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "98253e7502bf1683684436cf89956a0e",
+    "logs": [
+      {
+        "time": "2024-12-26T17:35:03.368Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T17:42:03.101Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T17:57:13.051Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T18:02:09.754Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T18:37:29.777Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T18:44:56.169Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T18:48:02.391Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:00:00.797Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:16:48.077Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:21:52.398Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:33:01.605Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:38:19.471Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:45:22.016Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T19:59:55.542Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T20:53:59.299Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T21:27:49.294Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-26T21:31:00.277Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:31:37.095Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:31:37.172Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:31:38.457Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:38:01.015Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:38:01.016Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Running Queued Commands"
+      },
+      {
+        "time": "2024-12-26T21:38:01.016Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:38:01.018Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:38:01.019Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:38:17.748Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:17.749Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:17.849Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:17.965Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:18.666Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:20.650Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:22.546Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:22.649Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:26.047Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:28.169Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:28.274Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:28.378Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:33.386Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:33.593Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:38.644Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:38.750Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:41.998Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:43.738Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:43.837Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:49.005Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:49.111Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:49.211Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:52.371Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:38:52.860Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:39:27.312Z",
+        "type": "SUCCESS",
+        "message": "9ec493ad49648c04 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2024-12-26T21:39:27.315Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:39:27.321Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:39:27.323Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Running Queued Commands"
+      },
+      {
+        "time": "2024-12-26T21:39:27.323Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:39:27.403Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:27.466Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:27.494Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:27.521Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:27.525Z",
+        "type": "ERROR",
+        "message": "9ec493ad49648c04 GPS Recieved No Data"
+      },
+      {
+        "time": "2024-12-26T21:39:27.527Z",
+        "type": "ERROR",
+        "message": "9ec493ad49648c04 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2024-12-26T21:39:28.613Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:28.726Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:31.540Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:33.433Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:33.539Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:39:36.284Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:44:07.607Z",
+        "type": "SUCCESS",
+        "message": "9ec493ad49648c04 Contacts Updated - 15030 New Contacts Added"
+      },
+      {
+        "time": "2024-12-26T21:44:07.640Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:07.653Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.668Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.670Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Running Queued Commands"
+      },
+      {
+        "time": "2024-12-26T21:44:07.673Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 9ec493ad49648c04"
+      },
+      {
+        "time": "2024-12-26T21:44:07.715Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.735Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.754Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.772Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.790Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.813Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.830Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.841Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.851Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:07.858Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Connected"
+      },
+      {
+        "time": "2024-12-26T21:44:08.269Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.297Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.327Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.359Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.391Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.424Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.471Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.520Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.550Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.579Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.612Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.662Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.712Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.749Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.785Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.819Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.869Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.914Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.953Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:08.994Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.028Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.076Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.120Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.158Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.186Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.220Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.284Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.331Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.360Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.397Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.456Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.520Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.565Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.609Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.641Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.684Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.729Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.773Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.809Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.848Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.893Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.935Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:09.974Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.003Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.067Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.114Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.150Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.181Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.215Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.254Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.306Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.351Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.387Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.412Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.449Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.482Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.527Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.557Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.594Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.624Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.672Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.711Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.745Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.786Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.819Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.857Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.897Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.951Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:10.998Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.038Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.096Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.127Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.179Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.244Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.295Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.345Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.384Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.411Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.444Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.474Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.503Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.525Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.551Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.575Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.598Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.625Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.663Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.693Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.721Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:11.969Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:14.158Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:16.467Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:18.751Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:21.132Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:23.514Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:23.622Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:25.861Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:28.113Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:30.523Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:32.891Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:35.173Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:35.437Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:36.198Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:37.595Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:37.707Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.731Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.746Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.769Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.785Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.808Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.830Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.837Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:37.848Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-26T21:44:39.887Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:42.033Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:44.233Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:46.511Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:46.714Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:47.419Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:48.692Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:50.831Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:52.828Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:54.827Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:56.775Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:56.938Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:57.607Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:44:58.728Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:00.830Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:02.899Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:04.941Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:07.196Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:07.532Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:08.164Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:09.418Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:11.421Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:13.313Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:15.308Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:15.613Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:16.190Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:17.353Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:19.319Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:21.131Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:21.511Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:21.947Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:23.043Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:24.781Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:26.608Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:28.502Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:30.396Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:32.319Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:34.064Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:35.743Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:37.626Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:39.331Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:41.041Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:42.812Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:43.086Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:43.571Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:44.590Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:46.274Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:47.959Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:49.641Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:51.312Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:51.776Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:53.127Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:54.857Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:56.622Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:45:58.453Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:00.195Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:00.476Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:01.008Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:02.024Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:03.775Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:05.579Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:07.452Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:09.356Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:09.732Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:10.182Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:11.255Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:13.111Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:46:14.874Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Notification Recieved"
+      },
+      {
+        "time": "2024-12-26T21:56:32.955Z",
+        "type": "INFO",
+        "message": "9ec493ad49648c04 Disconnected"
+      },
+      {
+        "time": "2024-12-27T12:59:02.932Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-12-27T13:03:42.419Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:06:50.695Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:09:01.227Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:10:21.961Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:11:02.343Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T13:11:05.185Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 Call Log Updated - 2000 New Calls"
+      },
+      {
+        "time": "2024-12-27T13:11:05.228Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T13:11:06.199Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2024-12-27T13:11:16.606Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T13:13:26.077Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 Contacts Updated - 16909 New Contacts Added"
+      },
+      {
+        "time": "2024-12-27T13:13:26.080Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.080Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.093Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.096Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.180Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.288Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.313Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.317Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.319Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.324Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:26.328Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.192Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.290Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.313Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.317Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.319Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:13:56.931Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:16:46.619Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T13:17:00.967Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:17:31.430Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:21:15.711Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:22:36.119Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:32:18.420Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:32:49.682Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:36:42.178Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:37:37.241Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:37:47.304Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T13:40:38.116Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:41:08.746Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:47:17.806Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:47:48.444Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:54:06.153Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:54:06.154Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Running Queued Commands"
+      },
+      {
+        "time": "2024-12-27T13:54:06.156Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T13:54:06.505Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-12-27T13:55:01.285Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:57:15.586Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:57:15.586Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Running Queued Commands"
+      },
+      {
+        "time": "2024-12-27T13:57:15.587Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T13:57:46.126Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:58:01.175Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T13:58:31.423Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T13:59:42.796Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:00:35.103Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:00:56.618Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:00:56.779Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:00:59.411Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:00:59.644Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:01:11.622Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:01:11.760Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:01:12.517Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:01:12.654Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:01:12.702Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:01:12.749Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:03:42.722Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:03:42.948Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 GPS Updated"
+      },
+      {
+        "time": "2024-12-27T14:05:45.634Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:07:04.360Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:07:34.697Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:07:42.207Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:07:53.054Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:07:53.206Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:08:00.610Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:08:00.637Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:08:59.256Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:09:36.233Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:10:11.455Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:11:25.323Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:11:27.699Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:11:30.047Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:12:14.398Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:12:18.157Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:12:57.580Z",
+        "type": "SUCCESS",
+        "message": "633f0c1cc68a4577 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2024-12-27T14:12:57.582Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:12:57.584Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:12:57.600Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:12:57.609Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Connected"
+      },
+      {
+        "time": "2024-12-27T14:13:22.366Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 633f0c1cc68a4577"
+      },
+      {
+        "time": "2024-12-27T14:13:22.659Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-12-27T14:13:53.036Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:14:09.580Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Connected"
+      },
+      {
+        "time": "2024-12-27T14:15:03.085Z",
+        "type": "INFO",
+        "message": "633f0c1cc68a4577 Disconnected"
+      },
+      {
+        "time": "2024-12-27T14:23:19.387Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:24:17.419Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:24:36.716Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:24:36.721Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:24:36.806Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:24:58.321Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:25:04.493Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:25:04.607Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:25:25.418Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:27:55.513Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:28:23.904Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:28:42.929Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Notification Recieved"
+      },
+      {
+        "time": "2024-12-27T14:29:41.594Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:30:05.806Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2024-12-27T14:30:13.010Z",
+        "type": "INFO",
+        "message": "a67cb392c20866da Connected"
+      },
+      {
+        "time": "2025-01-17T05:22:10.689Z",
+        "type": "INFO",
+        "message": "e1aace9266f537c4 Disconnected"
+      },
+      {
+        "time": "2025-01-17T05:22:20.040Z",
+        "type": "INFO",
+        "message": "a67cb392c20866da Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "9ec493ad49648c04",
+      "firstSeen": "2024-12-26T21:31:00.264Z",
+      "lastSeen": "2024-12-26T21:56:32.956Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.25",
+        "clientGeo": {},
+        "device": {
+          "model": "V2108",
+          "manufacture": "vivo",
+          "version": "9"
+        }
+      }
+    },
+    {
+      "clientID": "e1aace9266f537c4",
+      "firstSeen": "2024-12-27T13:03:42.403Z",
+      "lastSeen": "2025-01-17T05:22:10.690Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.25",
+        "clientGeo": {},
+        "device": {
+          "model": "CPH1901",
+          "manufacture": "oppo",
+          "version": "9"
+        }
+      }
+    },
+    {
+      "clientID": "633f0c1cc68a4577",
+      "firstSeen": "2024-12-27T13:06:50.691Z",
+      "lastSeen": "2024-12-27T14:15:03.086Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.26",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-M325FV",
+          "manufacture": "samsung",
+          "version": "13"
+        }
+      }
+    },
+    {
+      "clientID": "a67cb392c20866da",
+      "firstSeen": "2024-12-27T14:30:12.976Z",
+      "lastSeen": "2025-01-17T05:22:20.041Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.25",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-A037F",
+          "manufacture": "samsung",
+          "version": "9"
+        }
+      }
+    }
+  ]
+}

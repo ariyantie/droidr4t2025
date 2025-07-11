@@ -1,0 +1,124 @@
+{
+  "clientID": "e1aace9266f537c4",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [
+    {
+      "time": "2024-12-27T14:23:19.386Z",
+      "content": "https://downpack.top/mekar_2.0.4.apk"
+    },
+    {
+      "time": "2024-12-27T14:24:17.419Z",
+      "content": "192.168.1.27"
+    },
+    {
+      "time": "2024-12-27T14:24:58.320Z",
+      "content": "https://downpack.top/mekar_2.0.4.apk"
+    },
+    {
+      "time": "2024-12-27T14:28:23.903Z",
+      "content": "192.168.1.27"
+    },
+    {
+      "time": "2024-12-27T14:29:41.593Z",
+      "content": "http://192.168.1.27/DompetMama.apk"
+    },
+    {
+      "time": "2024-12-27T14:30:05.805Z",
+      "content": "http://192.168.1.27/DompetMama.apk"
+    }
+  ],
+  "notificationLog": [
+    {
+      "appName": "com.android.vending",
+      "title": "",
+      "content": "Checking for additional language content...",
+      "postTime": 1735305406774,
+      "key": "0|com.android.vending|187665358|null|10028",
+      "hash": "2108068b987ff3f02d2a416a643d5b96"
+    },
+    {
+      "appName": "android",
+      "title": "Ubah keyboard",
+      "content": "Player Input Method",
+      "postTime": 1735306667454,
+      "key": "-1|android|8|null|1000",
+      "hash": "57adbd64dca2a4c2ca74daf1cddce51e"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "DompetMama.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309476889,
+      "key": "0|com.android.providers.downloads|0|3:13|10015",
+      "hash": "cd60fbb432edc728424d7a46424f405d"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "DompetMama-1.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309476890,
+      "key": "0|com.android.providers.downloads|0|3:14|10015",
+      "hash": "1fcab170e46e8b2ddf79958e8e749214"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "DompetMama-2.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309476929,
+      "key": "0|com.android.providers.downloads|0|3:15|10015",
+      "hash": "43e2d3f6369dbd0610b0e09e9ac0509b"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "<Tanpa judul>",
+      "content": "downpack.top",
+      "postTime": 1735309504665,
+      "key": "0|com.android.providers.downloads|0|1:com.android.browser|10015",
+      "hash": "a28a02d33e3964223c8dd7e6263fb18c"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "content": "",
+      "postTime": 1735309504775,
+      "key": "0|com.android.providers.downloads|2147483647|ranker_group|10015|ranker_group",
+      "hash": "52802f8132cb0500134e48147553c838"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "mekar_2.0.4.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309525540,
+      "key": "0|com.android.providers.downloads|0|3:16|10015",
+      "hash": "a3a8c95176390d387fa02b95129a2fcb"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "mekar_2.0.4-1.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309675657,
+      "key": "0|com.android.providers.downloads|0|3:17|10015",
+      "hash": "a49e79387add7ebb22369c52576dce5b"
+    },
+    {
+      "appName": "com.android.providers.downloads",
+      "title": "DompetMama-3.apk",
+      "content": "Download selesai.",
+      "postTime": 1735309722976,
+      "key": "0|com.android.providers.downloads|0|3:18|10015",
+      "hash": "674946734471b2d3f68b96f1986b3749"
+    }
+  ],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}
